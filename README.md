@@ -1,34 +1,36 @@
-# MS Demolidora - Landing Page
+# MS Demolidora - Landing Page Institucional
 
-Landing page institucional desenvolvida para uma empresa do setor de construção civil e demolição. O projeto foca em alta performance, design responsivo e apresentação clara dos serviços oferecidos.
+![Capa do Projeto](screenshots/home.png)
+
+Landing page desenvolvida para a **MS Demolidora**, focada em apresentar serviços de construção civil com profissionalismo, performance e design responsivo. O projeto serve como portfólio de desenvolvimento Front-end moderno.
+
+## 📸 Prévia do Projeto
+
+| Seção Sobre | Seção de Serviços |
+|:---:|:---:|
+| ![Sobre](screenshots/sobre.png) | ![Serviços](screenshots/servicos.png) |
 
 ## 🛠 Tecnologias Utilizadas
 
 - **React (Vite)**: Framework principal para construção da interface e otimização do build.
 - **Tailwind CSS**: Estilização utilitária para criação de um design system consistente e responsivo.
-- **JavaScript (ES6+)**: Lógica de interação, renderização de listas e manipulação do DOM.
+- **JavaScript (ES6+)**: Lógica de interação e manipulação do DOM.
 
 ## 🚀 Funcionalidades
 
-- **Single Page Application (SPA)**: Navegação fluida em página única.
-- **Smooth Scroll**: Redirecionamento suave entre as seções através do menu de navegação.
-- **Layout Responsivo**: Adaptação total de interface para dispositivos móveis, tablets e desktops.
-- **Integração de Contato**: Botões de *Call to Action* (CTA) com redirecionamento direto para a API do WhatsApp.
-- **Componentização**: Reutilização de componentes (Cards, Seções) para manter o código limpo e escalável.
+- **Single Page Application (SPA)**: Navegação fluida sem recarregamento.
+- **Design Responsivo**: Layout adaptável para Mobile, Tablet e Desktop.
+- **Componentização**: Estrutura de código limpa e reutilizável.
+- **Botão Flutuante**: Integração direta com API do WhatsApp para conversão.
 
-## 📦 Como executar o projeto localmente
-
-Pré-requisitos: Node.js instalado.
+## 📦 Como executar o projeto
 
 ```bash
-# 1. Clone este repositório
+# 1. Clone o repositório
 git clone [https://github.com/pablobmm/MS_Demolidora.git](https://github.com/pablobmm/MS_Demolidora.git)
 
-# 2. Acesse a pasta do projeto
-cd MS_Demolidora
-
-# 3. Instale as dependências
+# 2. Instale as dependências
 npm install
 
-# 4. Inicie o servidor de desenvolvimento
+# 3. Rode o projeto
 npm run dev
