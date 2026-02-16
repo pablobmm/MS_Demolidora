@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  font-size: 14px; 
+}
+
+body {
+  @apply antialiased text-gray-800;
+}
