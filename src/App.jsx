@@ -157,7 +157,7 @@ function App() {
           Atendemos toda a Grande São Paulo e região metropolitana, levando nossos serviços com a mesma qualidade e compromisso a cada projeto.
         </p>
         <div className="inline-flex items-center gap-4 bg-white/5 border border-white/10 px-12 py-6 rounded-xl text-[#ffb400] font-bold text-xl uppercase tracking-widest shadow-2xl hover:bg-white/10 transition-colors cursor-default">
-          📍 Grande São Paulo e Região Metropolitana
+          📍 Grande São Paulo e todo Brasil
         </div>
       </section>
 
@@ -197,6 +197,7 @@ function App() {
             <p>CNPJ: 35.132.114/0001-70</p>
             <p>Estrada dos Romeiros nº 1610 – 1º andar, sala 17</p>
             <p>Telefone: (11) 97684-8823</p>
+            <p>E-mail: msdemolidora@gmail.com</p>
             <p className="pt-10 text-xs opacity-40">© 2026 MS Demolidora. Todos os direitos reservados.</p>
           </div>
         </div>
