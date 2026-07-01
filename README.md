@@ -2,7 +2,7 @@
 
 ![Capa do Projeto](screenshots/home.png)
 
-Landing page desenvolvida para a **MS Demolidora**, focada em apresentar serviços de construção civil com profissionalismo, performance e design responsivo. O projeto serve como portfólio de desenvolvimento Front-end moderno.
+Landing page desenvolvida para a **MS Demolidora**, focada em apresentar serviços de construção civil com profissionalismo, performance e design responsivo. 
 
 ## 📸 Prévia do Projeto
 
